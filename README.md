@@ -1,1 +1,2 @@
-##  Utilizes an ETL pipeline using Python, Pandas, and Python dictionary methods and regular expressions to extract and transform data, as well as converting that data to a Postgres database
+##  Utilizes an ETL pipeline using Pandas and Python dictionary methods to extract and transform data to allow for creation of a Postgres database
+![screnshot](screenshot.png)
